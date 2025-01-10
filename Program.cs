@@ -5,10 +5,11 @@ public class Program
 {
 	public static void Main()
 	{
-		var cypher = new OnePadCipher("2 1 2 1 2 15 9 12 9 11 5 2 15 9 12 9 11 5 2 15 9 12 9 11 5 2 1 2 1 2 15 9 12 9 11 5".ToCharArray());
+		/*var cypher = new OnePadCipher("2 1 2 1 2 15 9 12 9 11 5 2 15 9 12 9 11 5 2 15 9 12 9 11 5 2 1 2 1 2 15 9 12 9 11 5".ToCharArray());
 		cypher.Encrypt();
 		Console.WriteLine(cypher.Key);
 		cypher.Decrypt();
+  		*/
 	}
 }
 
